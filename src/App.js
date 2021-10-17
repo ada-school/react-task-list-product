@@ -1,12 +1,7 @@
-import { TaskForm } from "./components/TaskForm";
-import { TaskList } from "./components/TaskList";
-import "./App.css";
-
 function App() {
   return (
     <section>
-      <TaskForm />
-      <TaskList />
+      <h1>Ada School Task items</h1>
     </section>
   );
 }

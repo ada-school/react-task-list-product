@@ -1,28 +1,2 @@
 .task-item {
-  padding: 1rem;
-  border: solid 1px #dedede;
-  background-color: white;
-  border-radius: 4px;
-  margin: 1rem;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px;
-  list-style: none;
-  font-size: 1.1rem;
-}
-
-.task-item label {
-  display: flex;
-  align-items: center;
-}
-
-.task-item input {
-  margin-right: 0.4rem;
-}
-
-.task-item input {
-  width: 20px;
-  height: 20px;
-}
-
-.task-item input:checked {
-  accent-color: green;
 }
