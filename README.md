@@ -133,9 +133,9 @@ Para poder listar las tareas creadas crearemos 2 components, un `TaskItem` y un 
 
    ```html
    <ul>
-     <TaskList />
-     <TaskList />
-     <TaskList />
+     <TaskItem />
+     <TaskItem />
+     <TaskItem />
    </ul>
    ```
 
